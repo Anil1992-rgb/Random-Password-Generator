@@ -1,10 +1,16 @@
-# Homework 3 Password Generator
+# Password Generator
 
     Random password generator with multiple choice of options to include in the password.
 
     Built using HTML, CSS, and Javascript.
 
 ![Example profile](./example.png)
+___________________________________________________________________________________________________________________
+
+**Install**
+    -Clone Repository
+    -Open Index.html
+
 ___________________________________________________________________________________________________________________
 
 **Usage**
