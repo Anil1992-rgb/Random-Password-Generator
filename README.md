@@ -5,6 +5,8 @@
     Built using HTML, CSS, and Javascript.
 
 ![Example profile](./example.png)
+
+Use the app here!: https://anil1992-rgb.github.io/Random-Password-Generator/
 ___________________________________________________________________________________________________________________
 
 **Install**
