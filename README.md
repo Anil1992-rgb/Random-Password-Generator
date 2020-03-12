@@ -1,31 +1,14 @@
-============
-Homework 3 Password Generator
-============
+# Homework 3 Password Generator
 
-Random password generator with multiple choice of options to include in the password.
+    Random password generator with multiple choice of options to include in the password.
 
+    Built using HTML, CSS, and Javascript.
 
-=====
-Usage
-=====
+![Example profile](./example.png)
+___________________________________________________________________________________________________________________
 
-Click pn the "generate password" button then choose the options to include in the password(OK=Yes, Cancel=NO).
-When done the random passsword is genertated in the textarea.
-Click on the "copy to clipboard" button to copy the password.
+**Usage**
 
-
-==========
-Credits
-==========
-
-	*w3schools.com
-	*github.com 
-	*stackoverflow.com
-
-
------------------------------------------------------------------
-
-
-*This project is licensed under the terms of the MIT license.
-
-
+    -Click the generate password button then choose the options to include in the password. (OK=Yes, Cancel=NO)
+    -When done the random passsword is genertated in the textarea.
+    -Click the copy to clipboard button to copy the password.
